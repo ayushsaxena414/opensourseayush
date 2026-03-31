@@ -1,0 +1,15 @@
+==================================================
+         PERSONAL OPEN SOURCE MANIFESTO           
+==================================================
+Generated on: 29 March 2026
+
+I use Git as part of my everyday digital life, and it reminds me
+that open source is more than code — it is a culture of sharing.
+To me, freedom means Independence, because true software freedom gives
+users the right to learn, modify, and improve what they use.
+If I had the opportunity, I would build and freely share developer tools for students so
+that others could learn from it, improve it, and use it without
+unnecessary restrictions. Open source represents collaboration,
+community, and the belief that knowledge grows when it is shared.
+
+— Created by Aditya jain
